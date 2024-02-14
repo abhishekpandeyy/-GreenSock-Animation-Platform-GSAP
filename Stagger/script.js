@@ -1,6 +1,6 @@
 
 
-var tl=gsap.timeline();
+var tl=gsap.timeline(); //ye ek sequence h aisa man lo jo line by line chalata h cheezo ko...
 
 // tl.from('img',{
 //     opacity:0,
