@@ -1,0 +1,36 @@
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     font-family: 'gilroy';
+}
+
+html, body {
+     height: 100%;
+     width: 100%;
+     background-color: #dadada;
+} 
+
+.page3{
+    height: 100%;
+    width: 100%;
+    /* background-color: salmon; */
+    /* background: url('https://images.unsplash.com/photo-1682685797365-41f45b562c0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MTV8fGxhbmRzY2FwZXxlbnwwfHwwfHx8MA%3D%3D');
+    background-position: center;
+    background-size: cover; */
+    background-color: rgb(65, 132, 129);
+}
+/* .page1{
+    height: 100%;
+    width: 100%;
+    background-color: lightsteelblue;
+} */
+.page2{
+    min-height: 100%;
+    width: 100%;
+    background-color: rgba(195, 183, 179, 0.673);
+    padding: 55px;
+}
+.page2 h1{
+    color: white;
+}
